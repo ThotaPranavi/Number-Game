@@ -1,5 +1,3 @@
-Number Guessing Game
-Description
 This is a simple Java-based Number Guessing Game where the player tries to guess a randomly generated number within a limited number of attempts.
 Features
 Random number generation
